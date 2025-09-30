@@ -24,3 +24,4 @@ function clearDisplay() {
     display.value = '';
 }
 
+
